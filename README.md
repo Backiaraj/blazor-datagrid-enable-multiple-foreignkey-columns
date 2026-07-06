@@ -13,11 +13,6 @@ The sample includes a working example of an order management interface that disp
 - **Last Name**: Employee last name from the same employee data source  
 - **Joined Date**: Order date information
 
-This pattern is useful for scenarios like:
-- Customer name (first + last) displayed in separate columns
-- Product category and subcategory from related tables
-- Multiple lookup values from a single reference data source
-
 ## Features
 
 - **Multiple Foreign Key Columns** - Configure and display multiple related data columns from the same or different data sources in a single grid
