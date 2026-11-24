@@ -56,6 +56,6 @@ dotnet run
 
 ## References
 
-**Documentation**: https://blazor.syncfusion.com/documentation/datagrid/editing#edit-foreign-key-column
+**Documentation**: https://help.syncfusion.com/grid-sdk/blazor/data-grid/editing#edit-foreign-key-column
 
 **Online example**: https://blazor.syncfusion.com/demos/datagrid/foreign-key-column?theme=fluent2
